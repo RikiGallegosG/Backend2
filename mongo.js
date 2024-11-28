@@ -27,3 +27,5 @@ note.save().then(result => {
     console.log('Note saved in MongoDB');
     mongoose.connection.close()
 })
+
+// xd
